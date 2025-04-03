@@ -1,0 +1,2 @@
+The python project is for doing data science machine learning research with LDA topic modeling and semantic analysis. There are a couple of external classes that this project uses, but I don't own them so I didn't include them.
+The cpp project is for a class all about k-means data clustering, and using several different methods to measure and improve effectiveness of the algorithm. This class is also about learning and understanding several different techniques for analyzing and evaluating data clustering models/algorithms.
